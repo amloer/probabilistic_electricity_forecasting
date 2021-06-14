@@ -8,3 +8,7 @@ The quantile loss guided probabilistic forecasting approach was used to include 
 
 Among the three models, the pinball loss-guided LSTM performed the best in computing quantile predictions. Furthermore, data on historical consumption and temperature are relevant when making short-term probabilistic load forecasts.
 The proposed models can be used by managers of electricity supplying companies to manage operational risk. Specific areas of application could be demand side management or electricity purchasing.
+
+Data sources:
+- consumption: https://www.amprion.net/Grid-Data/Demand-in-Control-Area/
+- weather: https://www.dwd.de/DE/leistungen/klimadatendeutschland/klarchivtagmonat.html;jsessionid=2A0D0FC8D5BCAE83E9879C48F9A6972E.live21063?nn=16102
